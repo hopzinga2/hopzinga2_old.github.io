@@ -33,7 +33,7 @@ body{
 
 	position: relative;
 	left: 680px;
-	bottom: 378px;
+	bottom: 423px;
 	font-family: monospace;
 	font-size: 20px;
 	letter-spacing: 5px;
@@ -44,8 +44,8 @@ body{
 #notifs_b{
 
 	position: relative;
-	left: 520px;
-	bottom: 420px;
+	left: 550px;
+	bottom: 380px;
 	right: 5px;
 	font-family: monospace;
 	letter-spacing: 5px;
