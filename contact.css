@@ -25,3 +25,27 @@ body{
 	text-decoration: none;
 
 }
+
+p:focus{
+
+	background-color: white; 
+
+}
+
+p:hover{
+
+	background-color: red; 
+
+}
+
+p:visited{
+
+	background-color: white; 
+
+}
+
+div{
+
+	width: 30%;
+}
+
